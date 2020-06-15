@@ -14,7 +14,7 @@ This is the code repository for the InviteManager Discord Bot.
 
 - NodeJS (tested using v10)
 - Database (tested using `MySQL` 5.7+, `MariaDB` 10.2+ should work)
-
+[![Run on Repl.it](https://repl.it/badge/github/SideProjectGuys/invite-manager-bot)](https://repl.it/github/SideProjectGuys/invite-manager-bot)
 ### Setup
 
 1. `npm install`
